@@ -11,6 +11,8 @@
 
 ## 组员信息登记
 
+[各小组成员库查看](https://github.com/YixuanBurnett/GroupManagement/blob/master/emergency.md)
+
 GitBook 发布地址  | GitHub ID | 姓名 
 ---- | ---- | ----
 [badboy315] (http://badboy315.gitbooks.io/pythoncamp0/content/) | [badboy315](https://github.com/badboy315) | 弓和箭
@@ -23,6 +25,8 @@ yournamegitbook | yourgithub | yourname
 ---
 
 ## homework 作业列表
+
+[每周作业汇总](https://github.com/YixuanBurnett/GroupManagement/tree/master/Homework)
 
 >  大家完成作业之后, 在后面跟着写自己的名字就好。 
 
@@ -47,3 +51,14 @@ yournamegitbook | yourgithub | yourname
 
 > 字数要求：无字数要求。可写自己的收获、感想、目标等。  
 > 内容要求：可主要写一下，反转教学的优缺点。及自己在反转教学中得到的反思。 
+
+## 每日LOG
+
+[小组log](https://github.com/YixuanBurnett/GroupManagement/blob/master/Group2/log.md)
+每日更新小组已做事宜、未做事宜。及日常。
+
+组员log
+
+
+
+
