@@ -1,11 +1,17 @@
 # 2T
 ---
 
-## 多看邮件组
+## 置顶信息栏
+
+### Mailling
 
 后续不更新， 都可以收到邮件。 最近讨论的很多非常好的主题。
 
 [第一周](https://github.com/YixuanBurnett/GroupManagement/blob/master/src/email/Week1TL.md)
+
+### Guide 
+
+[系列教程](https://github.com/2TT/2t/blob/master/guide.md)
 
 ---
 
