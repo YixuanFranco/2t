@@ -16,7 +16,7 @@
 GitBook 发布地址  | GitHub ID | 姓名 
 ---- | ---- | ----
 [badboy315] (http://badboy315.gitbooks.io/pythoncamp0/content/) | [badboy315](https://github.com/badboy315) | 弓和箭
-yournamegitbook | yourgithub | yourname
+[kidult's Python book](http://kidult00.gitbooks.io/kidult-s-python-book/content/) | [kidult00](https://github.com/kidult00) | 00
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
@@ -31,9 +31,10 @@ yournamegitbook | yourgithub | yourname
   - 小组库的链接：https://github.com/2TT/2t   
 
 3. 00：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
+  - gihub 帐号： kidult00
+  - gihub 的代码仓库：https://github.com/kidult00/omooc.py
+  - gitbook 在 github 上的图书仓库：  https://github.com/kidult00/pythoncamp0
+  - gitbook 发布链接：  http://kidult00.gitbooks.io/kidult-s-python-book/content/
 
 3. tianfrank：  
   - gihub 的代码仓库：  
@@ -72,8 +73,8 @@ yournamegitbook | yourgithub | yourname
 - [x] `INFO`大妈的一封信。  「已经收到邮件」
 - [x] `INFO`开学典礼。  「微信记录全程记录，大家都有」
 - [x] 注册网易云课堂。  「组员都有注册」
-- [ ] Github初始化。   **完成同学：弓和箭**
-- [ ] Github与Gitbook链接 + 发布图书。 **完成同学：弓和箭** 
+- [ ] Github初始化。   **完成同学：弓和箭，00**
+- [ ] Github与Gitbook链接 + 发布图书。 **完成同学：弓和箭，00** 
 - [ ] say "Hello World".  **完成同学：**
 - [ ] gitbook: markdown 教程.   **完成同学：**
 > 用markdown形式写成教程，放到Github里面。
