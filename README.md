@@ -21,6 +21,45 @@ yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
+yournamegitbook | yourgithub | yourname
+
+2. 弓和箭：  
+  - github帐号：badboy315
+  - gihub 的代码仓库：https://github.com/badboy315/OMOOC.py
+  - gitbook 在 github 上的图书仓库：https://github.com/mrluyao/pythoncamp0  
+  - gitbook 发布链接：http://badboy315.gitbooks.io/pythoncamp0/content/  
+  - 小组库的链接：https://github.com/2TT/2t   
+
+3. 00：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+
+3. tianfrank：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+
+3. wenzy：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+
+3. 启程-东：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+
+3. raivvoo：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+
+3. 李晓静：  
+  - gihub 的代码仓库：  
+  - gitbook 在 github 上的图书仓库：  
+  - gitbook 发布链接：  
+
 
 ---
 
