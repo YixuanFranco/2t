@@ -28,7 +28,6 @@ GitBook 发布地址  | GitHub ID | 姓名
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
-yournamegitbook | yourgithub | yourname
 
 2. 弓和箭：  
   - github帐号：badboy315
