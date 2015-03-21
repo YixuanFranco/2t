@@ -23,7 +23,7 @@ GitBook 发布地址  | GitHub ID | 姓名
 ---- | ---- | ----
 [badboy315] (http://badboy315.gitbooks.io/pythoncamp0/content/) | [badboy315](https://github.com/badboy315) | 弓和箭
 [kidult's Python book](http://kidult00.gitbooks.io/kidult-s-python-book/content/) | [kidult00](https://github.com/kidult00) | 00
-yournamegitbook | yourgithub | yourname
+[rainvoo](http://rainvoo.gitbooks.io/pythoncamp0/content/) | [rainvoo](https://github.com/Rainvoo) | rainvoo
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
@@ -57,10 +57,11 @@ yournamegitbook | yourgithub | yourname
   - gitbook 在 github 上的图书仓库：  
   - gitbook 发布链接：  
 
-3. raivvoo：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
+3. rainvoo：  
+  - gihub 账号：  rainvoo
+  - gihub 的代码仓库：  https://github.com/Rainvoo/omooc.py
+  - gitbook 在 github 上的图书仓库：  https://www.gitbook.com/book/rainvoo/pythoncamp0/details
+  - gitbook 发布链接：  http://rainvoo.gitbooks.io/pythoncamp0/content/
 
 3. 李晓静：  
   - gihub 的代码仓库：  
@@ -79,8 +80,8 @@ yournamegitbook | yourgithub | yourname
 - [x] `INFO`大妈的一封信。  「已经收到邮件」
 - [x] `INFO`开学典礼。  「微信记录全程记录，大家都有」
 - [x] 注册网易云课堂。  「组员都有注册」
-- [ ] Github初始化。   **完成同学：弓和箭，00**
-- [ ] Github与Gitbook链接 + 发布图书。 **完成同学：弓和箭，00** 
+- [ ] Github初始化。   **完成同学：弓和箭，00，rainvoo**
+- [ ] Github与Gitbook链接 + 发布图书。 **完成同学：弓和箭，00，rainvoo** 
 - [ ] say "Hello World".  **完成同学：**
 - [ ] gitbook: markdown 教程.   **完成同学：**
 > 用markdown形式写成教程，放到Github里面。
