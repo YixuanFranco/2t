@@ -24,6 +24,7 @@ GitBook 发布地址  | GitHub ID | 姓名
 [badboy315] (http://badboy315.gitbooks.io/pythoncamp0/content/) | [badboy315](https://github.com/badboy315) | 弓和箭
 [kidult's Python book](http://kidult00.gitbooks.io/kidult-s-python-book/content/) | [kidult00](https://github.com/kidult00) | 00
 [rainvoo](http://rainvoo.gitbooks.io/pythoncamp0/content/) | [rainvoo](https://github.com/Rainvoo) | rainvoo
+[Frank Python Practice](http://tianfrank.gitbooks.io/frank-python-practice/content/) | [tianfrank](https://github.com/tianfrank) | tianfrank
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
 yournamegitbook | yourgithub | yourname
@@ -43,9 +44,9 @@ yournamegitbook | yourgithub | yourname
   - gitbook 发布链接：  http://kidult00.gitbooks.io/kidult-s-python-book/content/
 
 3. tianfrank：  
-  - gihub 的代码仓库：  
-  - gitbook 在 github 上的图书仓库：  
-  - gitbook 发布链接：  
+  - gihub 的代码仓库：https://github.com/tianfrank/omooc.py
+  - gitbook 在 github 上的图书仓库：https://github.com/tianfrank/pythoncamp0 
+  - gitbook 发布链接： http://tianfrank.gitbooks.io/frank-python-practice/content/
 
 3. wenzy：  
   - gihub 的代码仓库：https://github.com/Wenzy--/omooc.py  
