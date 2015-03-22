@@ -80,21 +80,21 @@ yournamegitbook | yourgithub | yourname
 - [x] `INFO`大妈的一封信。  「已经收到邮件」
 - [x] `INFO`开学典礼。  「微信记录全程记录，大家都有」
 - [x] 注册网易云课堂。  「组员都有注册」
-- [ ] Github初始化。   **完成同学：弓和箭，00，rainvoo，Wenzy, 启程---东**
-- [ ] Github与Gitbook链接 + 发布图书。 **完成同学：弓和箭，00，rainvoo，Wenzy，启程---东** 
-- [ ] say "Hello World".  **完成同学：启程---东**
-- [ ] gitbook: markdown 教程.   **完成同学：[启程---东](https://github.com/wdcheng1/task/blob/master/README1.md)**
+- [ ] Github初始化。   **完成同学：弓和箭，[00](https://github.com/kidult00/omooc.py)，rainvoo，Wenzy, 启程---东**
+- [ ] Github与Gitbook链接 + 发布图书。 **完成同学：弓和箭，[00](http://kidult00.gitbooks.io/kidult-s-python-book/content/)，rainvoo，Wenzy，启程---东** 
+- [ ] say "Hello World".  **完成同学：启程---东**，00
+- [ ] gitbook: markdown 教程.   **完成同学：[启程---东](https://github.com/wdcheng1/task/blob/master/README1.md)，[00](http://kidult00.gitbooks.io/kidult-s-python-book/content/LearnMarkdown.html)**
 > 用markdown形式写成教程，放到Github里面。
 
-- [ ] mailling-list 教程.  **完成同学：[启程---东](https://github.com/wdcheng1/task/blob/master/Mailinglist.md)**
+- [ ] mailling-list 教程.  **完成同学：[启程---东](https://github.com/wdcheng1/task/blob/master/Mailinglist.md)，[00](http://kidult00.gitbooks.io/kidult-s-python-book/content/Why-Mailling-List.html)**
 > 什么是 mailling-list?  
 > 为什么 mailling-list 值得用?  
 > 和其它沟通方式 mailling-list 最大的不同是什么?  
 > 应该如何使用 mailling-list ?  
 > 说服6个月前的自个儿来使用 mailling-list 吧.  
 
-- [ ] 在gitbook中写github的教程.    **完成同学：**
-- [ ] 开学大典心得。  **完成同学：[启程---东](https://github.com/wdcheng1/task/blob/master/README.md)**
+- [ ] 在gitbook中写github的教程.    **完成同学：[00](http://kidult00.gitbooks.io/kidult-s-python-book/content/LearnGit.html)**
+- [ ] 开学大典心得。  **完成同学：[启程---东](https://github.com/wdcheng1/task/blob/master/README.md)，[00](http://kidult00.gitbooks.io/kidult-s-python-book/content/OpeningNote.html)**
 
 > 字数要求：无字数要求。可写自己的收获、感想、目标等。  
 > 内容要求：可主要写一下，反转教学的优缺点。及自己在反转教学中得到的反思。 
